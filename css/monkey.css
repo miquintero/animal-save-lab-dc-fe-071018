@@ -5,5 +5,7 @@ html {
 #monkey {
   position: absolute;
   top: 550px;
+  right: 120px;
+  left: 120px;
 }
 }
