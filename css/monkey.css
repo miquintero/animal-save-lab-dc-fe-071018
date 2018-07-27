@@ -6,6 +6,6 @@ html {
   position: absolute;
   top: 0px;
   right: 120px;
-  transform: rotate(-45deg)
+  transform: rotate(-45deg); 
 }
 }
