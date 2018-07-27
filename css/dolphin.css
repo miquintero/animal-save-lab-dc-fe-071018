@@ -13,7 +13,7 @@ html {
 }
 #dolphin {
   position: absolute;
-  top: 400px;
+  top: 0px;
   right: 0;
   transform: rotate(-45deg);
 }
