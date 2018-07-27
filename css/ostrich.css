@@ -4,8 +4,7 @@ html {
 }
 #ostrich {
   position: absolute;
-  top: 0px;
+  top: -50px;
   right: 0;
-  bottom: 50px;
 }
 }
