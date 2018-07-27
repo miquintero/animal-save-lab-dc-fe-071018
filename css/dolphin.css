@@ -17,6 +17,7 @@ html {
   position: absolute;
   top: 400px;
   right: 0;
+  transform: rotate(-45deg); 
 }
 }
 
