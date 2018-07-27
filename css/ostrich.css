@@ -1,11 +1,11 @@
-@media only screen and (min-width: 1196px) {
+@media only screen and (max-width: 1196px) {
 html {
   background: url(../images/croc.jpg) no-repeat top left;
 }
-
 #ostrich {
   position: absolute;
   top: 50px;
   right: 0;
+  bottom: 100px;
 }
 }
